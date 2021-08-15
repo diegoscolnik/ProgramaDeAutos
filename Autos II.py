@@ -13,7 +13,7 @@ def calcular_precio(marca, puerta, color):
     #    precio = precio * 0.82
     return precio
 
-print('**********PROGRAMA DE AUTOS**********')
+print('*********PROGRAMA DE AUTOS*********')
 
 mas_clientes = 'si'
 
